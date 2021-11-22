@@ -62,4 +62,8 @@ footer.page-footer {
  .red-text {
   color: #990101;
  }
+
+.moviecard {
+  height: 450px;
+}
  
